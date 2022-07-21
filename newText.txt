@@ -1,6 +1,0 @@
-Golang est un langage de programmation compilé et concurrent inspiré de C et Pascal.
-Ce langage a été développé par Google à partir d’un concept initial de Robert Griesemer, Rob Pike et Ken Thompson.
-Golang possède deux implémentations :
-- la première utilise gc, le compilateur Golang ;
-- la seconde utilise gccgo, « frontend » GCC écrit en C++.
-Golang est écrit en C en utilisant yacc et GNU Bison pour l’analyse syntaxique jusqu’à la version 1.4, et en Golang lui-même pour les versions suivantes (1.5).
